@@ -1,1 +1,1 @@
-# Ceci est le readme de la base du site
+# Ceci est la banche qui va servir à créer le site
